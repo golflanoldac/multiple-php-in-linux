@@ -35,3 +35,9 @@ ______________________________
 
         sudo apt-get install php7.2-mbstring
         sudo apt-get install php7.2-xml
+        
+        
+# php 5.3
+        sudo add-apt-repository ppa:sergey-dryabzhinsky/php53
+        sudo apt-get update
+        sudo apt-get install php5
